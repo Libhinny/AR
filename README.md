@@ -1,2 +1,2 @@
-# AR
+# Augmented Reality
 Códigos de AR
